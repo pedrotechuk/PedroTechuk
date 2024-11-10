@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroTechuk
+- 👋 Hi, I’m @pedrotechuk
 - 👀 I’m interested in web applications
 - 🌱 I’m currently learning PHP with Laravel and Livewire/Angular
 - 📫 You can to reach me on linkedin: https://www.linkedin.com/in/pedro-techuk/
