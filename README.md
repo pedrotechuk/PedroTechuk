@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Pedro Techuk</h1>
 
 <p align="center">
-  <b>Desenvolvedor Fullstack | Estudante de Engenharia de Software</b><br>
-  Apaixonado por tecnologia, desenvolvimento web e automação.
+  <b>Desenvolvedor Fullstack | Graduando Engenharia de Software</b><br>
+  Apaixonado por tecnologia, desenvolvimento de sistemas e automação de processos.
 </p>
 
 ---
@@ -10,13 +10,10 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Graduando em **Engenharia de Software** pela Unifio  
-- 💼 Assistente de TI na **Distribuidora de Bebidas Virginia**  
-- 🛠️ Desenvolvedor Fullstack com **PHP, Laravel, Livewire, Tailwind, Angular e MySQL**  
-- 📊 Desenvolvo e mantenho dashboards em **Power BI**  
-- 🚀 Experiência em projetos reais como sistemas internos, BI, apps web e automações  
-- 👨‍💻 Já realizei freelance criando plataforma de vendas com sorteios (Folha Extra)  
+- 💼 Desenvolvedor na **Distribuidora de Bebidas Virginia**  
+- 🛠️ Desenvolvedor Fullstack com **PHP, Laravel, Livewire, Tailwind, MySQL** 
 - 🔍 Sempre estudando e me atualizando sobre novas tecnologias  
-- 💡 Apaixonado por criar soluções que realmente ajudam pessoas e empresas
+- 💡 Apaixonado por criar soluções que impactam na vida das pessoas
 
 ---
 
